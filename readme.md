@@ -5,3 +5,7 @@ The objective of this task is to detect hate speech in tweets. A tweet contains 
 ## Dataset
 
 The data used contains 31,962 tweets with labels. The dataset is provided in the form of a csv file with each line storing a tweet id, its label and the tweet.
+
+## Model Building and Evaluation
+
+Several classifiacation models were implemented but Random Forest classifier produced the best result with an f1 score of 83%.
